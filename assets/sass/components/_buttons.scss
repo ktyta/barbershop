@@ -1,0 +1,11 @@
+
+.btn-secondary {
+&:hover {
+    background-color: $light-gray;
+    border-color: $light-gray;
+}
+
+&:focus {
+    border-color: $light-gray;
+}
+}

@@ -1,0 +1,15 @@
+.fondo-negro {
+background-color: $eerie-black;
+}
+
+.nav-link {
+    color: $white;
+    &:hover {
+        color: $ruddy-pink;
+    }
+}
+
+.navbar img {
+    width: 6rem;
+}
+
